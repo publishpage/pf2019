@@ -8,11 +8,6 @@
     <meta name="generator" content="Jekyll v3.8.5">
     <title>Album example · Bootstrap</title>
 
-    <link rel="canonical" href="https://getbootstrap.com/docs/4.3/examples/album/">
-
-
-
-
     <style>
       .bd-placeholder-img {
         font-size: 1.125rem;
