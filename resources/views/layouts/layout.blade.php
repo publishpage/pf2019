@@ -3,7 +3,7 @@
 
   
   <head>
-  @yield('head')
+  @include('layouts.head')
   </head>
   
   <body>
