@@ -18,3 +18,7 @@ Route::get('/', function () {
 Route::get('/nav', function () {
     return view('nav');
 });
+
+Route::get('layout', function () {
+    return view('layouts.layout');
+});
