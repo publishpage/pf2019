@@ -1,2 +1,2 @@
 
-<p class='spaceBox'>footer</p>
+<p class='spaceFooter'>footer</p>
